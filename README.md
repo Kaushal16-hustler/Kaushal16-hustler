@@ -7,9 +7,6 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
 ```
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kaushal16-hustler
-&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=36&desc=ML%20Engineer%20%E2%80%A2%20Data%20Analyst%20%E2%80%A2%20AI%20Builder&descSize=18&descAlignY=56&descColor=ffffffcc)](https://github.com/Kaushal16-hustler
-)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer+%7C+Data+Analyst;Building+AI-powered+solutions+that+scale+%F0%9F%9A%80;SQL+%7C+Python+%7C+Power+BI+%7C+ETL;Open+to+Roles+in+Data+Science+%26+AI)](https://github.com/Kaushal16-hustler
 )
@@ -41,14 +38,6 @@
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=flat-square&logo=apache&logoColor=white)
-
----
-
-## 📊 Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kaushal16-hustler
-&theme=radical)](https://github.com/Kaushal16-hustler
-)
 
 ---
 
