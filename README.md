@@ -21,8 +21,7 @@
 
 ### 👨‍💻 About Me
 - 📊 Internship at ** plasmid (Machine learning with python) ** and **SecPen lab (Software development engineer **
-- ⚡ Built **Home automation system** — integrated ESP32 module alonside SINRIC PRO and Google Home
-- 🤖 Developed **Chess Android Apk** — Backend support via Firebase
+
 - 🎯 Exploring **AI/ML · API integration · AI Development**
 
 <br clear="right"/>
@@ -33,11 +32,16 @@
 
 **Languages & Tools**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 ![ETL](https://img.shields.io/badge/ETL-FF6F00?style=flat-square&logo=apache&logoColor=white)
+
 
 ---
 
@@ -45,4 +49,5 @@
 
 ---
 
-[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)](https://github.com/hannsraaz)
+[![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling)](https://github.com/Kaushal16-hustler
+)
