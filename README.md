@@ -7,9 +7,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
 
 ```
-
-[![Typing SVG]\([https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Aspiring+ML+Engineer+%7C+Data+Analyst;Building+AI-powered+solutions+that+scale+%F0%9F%9A%80;SQL+%7C+Python+%7C+Power+BI+%7C+ETL;Open+to+Roles+in+Data+Science+%26+AI)\](https://github.com/Kaushal16-hustler](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&duration=3000\&pause=1000\&color=00FF94\&center=true\&vCenter=true\&width=650\&lines=Aspiring+ML+Engineer+%7C+Data+Analyst;Building+AI-powered+solutions+that+scale+%F0%9F%9A%80;SQL+%7C+Python+%7C+Power+BI+%7C+ETL;Open+to+Roles+in+Data+Science+%26+AI\)]\(https://github.com/Kaushal16-hustler)
-)  | 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF94&center=true&vCenter=true&width=650&lines=Software+Engineering+%7C+Exploring+Artificial+Intelligence+%26+Machine+Learning+%7C+Competitive+Programming;%F0%9F%9A%80;SQL+%7C+Python+%7C+C%2B%2B+%7C+Power+BI;Open+to+Roles+in+Software+Engineering+%26+AI)](https://github.com/Kaushal16-hustler)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushal0116)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white)](https://portfoliohannsraaz.netlify.app/)
